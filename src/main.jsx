@@ -8,7 +8,7 @@ import Home from './components/Home/Home';
 import Statistics from './components/NavigationLink/Statistics';
 import AppliedJobs from './components/Navbar/AppliedJobs';
 import JobDetails from './components/Navbar/JobDetails';
-import ErrorElement from './Error/ErrorElement';
+import ErrorElement from './components/Error/ErrorElement';
 
 const router = createBrowserRouter([
   {
